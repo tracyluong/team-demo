@@ -1,7 +1,7 @@
 export function greet() {
-  return "Hey there!";
+  return "Hello, user! (Hey there!)";
 }
 
 export function signOut() {
-  return "Goodbye, friend!";
+  return "You have been signed out. Goodbye, friend!";
 }
