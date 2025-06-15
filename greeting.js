@@ -1,4 +1,4 @@
 // greeting.js
 function greet(name) {
-  return `Hello, ${name}!`;
+  return `Hello and hi, ${name}!`;
 }
